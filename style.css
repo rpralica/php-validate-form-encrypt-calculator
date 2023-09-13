@@ -1,0 +1,9 @@
+.optionSel,option {
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+}
+
+body{
+    background-color:aquamarine;
+}
